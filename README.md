@@ -1,3 +1,13 @@
+Platform to automatically deploy and host a CTF competition.
+
+Many thanks go to [PicoCTF](https://github.com/picoCTF) for the basis of this project! 
+
+  1. git clone https://github.com/carlneuhaus/ctf-framework.git
+  2. cd CTF-Framework
+  3. vagrant up
+  4. Navigate to http://192.168.2.2/
+  5. Register an account (this user will be the site administrator)
+
 picoCTF-platform
 ============================
 
